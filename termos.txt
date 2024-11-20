@@ -1,0 +1,29 @@
+Para criar os termos de uso para o aplicativo de mineração da EasyCoin, é importante garantir que eles cubram aspectos essenciais, como segurança, responsabilidades dos usuários, e diretrizes sobre o uso da plataforma. Aqui está um esboço para os termos de uso do seu app de mineração:
+
+Termos de Uso do App de Mineração EasyCoin
+
+1. Aceitação dos Termos Ao utilizar o aplicativo de mineração EasyCoin, você concorda com os termos e condições descritos neste documento. Se não concordar com qualquer parte desses termos, não use o aplicativo.
+
+2. Modificações nos Termos O EasyCoin se reserva o direito de modificar os termos a qualquer momento, sem aviso prévio. A versão mais recente dos termos será sempre disponibilizada no aplicativo. O uso contínuo do aplicativo após qualquer alteração constitui aceitação dos novos termos.
+
+3. Funcionalidade do Aplicativo O aplicativo de mineração EasyCoin permite que os usuários mineiros ganhem EasyCoins, a criptomoeda da plataforma, através da mineração em dispositivos móveis. A mineração ocorre por meio de um algoritmo otimizado para baixo consumo de energia.
+
+4. Requisitos do Usuário Para usar o aplicativo, o usuário deve ter um dispositivo compatível e conexão com a internet. O app é destinado a maiores de 18 anos, e o usuário é responsável por garantir que tem permissão legal para usar o aplicativo em sua jurisdição.
+
+5. Uso Responsável Você concorda em usar o aplicativo de forma ética e responsável, sem realizar atividades fraudulentas, como mineração em dispositivos não autorizados ou manipulação do processo de mineração. A EasyCoin não se responsabiliza por danos causados por comportamento impróprio ou uso indevido do aplicativo.
+
+6. Mineração e Criação de EasyCoins A quantidade de EasyCoins minerados depende da capacidade do dispositivo e da participação no processo de validação. A EasyCoin pode ajustar algoritmos e a quantidade de moedas mineradas conforme necessário para garantir a integridade e a segurança da rede.
+
+7. Responsabilidade do Usuário Os usuários são responsáveis por manter a segurança de suas credenciais, como senhas e chaves privadas. A EasyCoin não se responsabiliza por perdas de moedas ou dados devido a falhas de segurança relacionadas a negligência do usuário.
+
+8. Limitação de Responsabilidade O EasyCoin não se responsabiliza por qualquer dano direto, indireto, incidental ou consequencial, incluindo, mas não se limitando a, perda de dados, perda de oportunidades ou lucros derivados do uso do aplicativo.
+
+9. Privacidade A EasyCoin coleta e processa dados pessoais conforme descrito na nossa Política de Privacidade. Ao utilizar o aplicativo, você concorda com a coleta e processamento de dados conforme essa política.
+
+10. Propriedade Intelectual Todo o conteúdo do aplicativo, incluindo código, design, gráficos, e marcas registradas, é de propriedade exclusiva da EasyCoin ou licenciada para nós, e está protegido por leis de direitos autorais e propriedade intelectual.
+
+11. Terminação A EasyCoin pode suspender ou encerrar sua conta a qualquer momento, por qualquer motivo, incluindo violação dos termos de uso, sem aviso prévio.
+
+12. Legislação Aplicável Esses termos serão regidos pelas leis do [país/estado/jurisdição], sem considerar conflitos de princípios legais. Quaisquer disputas deverão ser resolvidas exclusivamente nos tribunais de [cidade/estado].
+
+13. Contato Se você tiver dúvidas sobre os termos de uso ou precisar de suporte, entre em contato conosco pelo e-mail [email de contato] ou através do nosso suporte no aplicativo.
